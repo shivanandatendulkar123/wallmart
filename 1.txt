@@ -4,3 +4,4 @@ updating trhe file
 this is new branch
 updated code in remote repo
 updated line in 1.txt file 
+git pull and git merge operation
